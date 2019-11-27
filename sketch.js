@@ -16,7 +16,7 @@ var i=0;
 function preload(){
   tg1_new = loadSound('./assets/TG1_new.mp3');
   pianeta = loadImage('./assets/texture.jpg');
-  tg1_logo = loadImage('./assets/tg1.png');
+  tg1_logo = loadImage('./assets/TG1.png');
 }
 
 
